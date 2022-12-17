@@ -14,7 +14,7 @@ namespace binary_calculator
             {
                 new MenuItem {id = "AdditionalCode", description = "Перевод целых чисел в дополнительный код", select = true},
                 new MenuItem {id = "AdditionOfIntegers", description = "Сложение целых (положительных и отрицательных) чисел с использованием дополнительного кода"},
-                new MenuItem {id = "Exit", description = "exit"}
+                new MenuItem {id = "Exit", description = "Exit"}
             };
             bool exit = false;
             do
